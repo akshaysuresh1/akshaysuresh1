@@ -24,11 +24,12 @@ Building on my educational training in physics and data science, I am excited to
 
 Outside of work, I enjoy following cricket, playing board games, and exploring natural wonders. Visit my [personal website](https://akshaysuresh1.com) to learn more about my experiences in and beyond the workplace.
 
-### 🖥️ Open-Source Repositories
+### 🖥️ Open-Source Projects
 
-| Project | Domain |
+| Repository | Project domain |
 |--|--|
-| [blipss](https://github.com/UCBerkeleySETI/blipss) | Software development for astronomy |
-| [RFI-classifier](https://github.com/akshaysuresh1/RFI-classifier) | Deep learning for astronomy |
 | [agriyield_viz](https://github.com/akshaysuresh1/agriyield_viz) | Geospatial data visualization in the cloud |
+| [blipss](https://github.com/UCBerkeleySETI/blipss) | Software development for astronomy |
 | [may22-barrel](https://github.com/akshaysuresh1/may22-barrel) | AI for agriculture |
+| [RFI-classifier](https://github.com/akshaysuresh1/RFI-classifier) | Deep learning for astronomy |
+
