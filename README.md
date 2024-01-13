@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there! I am Akshay Suresh. Professionaly, I love developing artificial intelligence (AI) algorithms to tackle challenging real-world problems and generate sustainable benefit for humanity.
+I am Akshay Suresh. Professionaly, I love developing artificial intelligence (AI) algorithms to tackle challenging real-world problems and generate sustainable benefit for humanity.
 
 Building on my educational training in physics and data science, I am excited to make impactful contributions in the following domains.
 - AI for climate change
