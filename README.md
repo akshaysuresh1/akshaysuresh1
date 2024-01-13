@@ -26,10 +26,10 @@ Outside of work, I enjoy following cricket, playing board games, and exploring n
 
 ### 🖥️ Open-Source Projects
 
-| Repository | Project domain |
-|--|--|
-| [agriyield_viz](https://github.com/akshaysuresh1/agriyield_viz) | Geospatial data visualization in the cloud |
-| [blipss](https://github.com/UCBerkeleySETI/blipss) | Software development for astronomy |
-| [may22-barrel](https://github.com/akshaysuresh1/may22-barrel) | AI for agriculture |
-| [RFI-classifier](https://github.com/akshaysuresh1/RFI-classifier) | Deep learning for astronomy |
+| Repository | Project domain | Technologies |
+|--|--|--|
+| [agriyield_viz](https://github.com/akshaysuresh1/agriyield_viz) | Geospatial data visualization in the cloud | ![Plotly](https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly) ![geopandas](https://img.shields.io/badge/Geopandas-black?style=flat-square&logo=geopandas) ![Amazon EC2](https://img.shields.io/badge/AmazonEC2-black?style=flat-square&logo=amazon-ec2)|
+| [blipss](https://github.com/UCBerkeleySETI/blipss) | Software development for astronomy | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) ![matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=matplotlib) |
+| [may22-barrel](https://github.com/akshaysuresh1/may22-barrel) | AI for agriculture | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![scikit-learn](https://img.shields.io/badge/scikitlearn-black?style=flat-square&logo=scikit-learn) ![geopandas](https://img.shields.io/badge/Geopandas-black?style=flat-square&logo=geopandas) ![matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=matplotlib) |
+| [RFI-classifier](https://github.com/akshaysuresh1/RFI-classifier) | Deep learning for astronomy | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
 
