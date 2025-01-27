@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Akshay Suresh. Professionally, I love developing artificial intelligence (AI) algorithms to tackle challenging real-world problems and generate sustainable benefit for humanity.
+I am a freelance data scientist building artificial intelligence (AI) tools for positive climate impact. In the past, I engineered software pipelines to automate searches of terabytes of astronomy data for exotic events, including plausible signs of intelligent life beyond the Earth.
 
-Building on my educational training in physics and data science, I am excited to make impactful contributions in the following domains.
-- AI for climate change
-- AI for healthcare
-- Environment perception algorithms for autonomous vehicles
-- Pioneering safe artificial general intelligence
+**Major project highlights:**
+- Conducted a [rooftop solar feasibility study](https://akshaysuresh1.com/projects/2024_05_14_LiDARSolarPotential/index.html) using LiDAR, revealing that 53% of homeowners in DeLand, Florida, can save over $1,000 annually by transitioning to solar-powered households.
+- Developed a [scalable tool for near real-time forecast of earthquakes induced from underground carbon storage](https://akshaysuresh1.com/projects/2022_08_31_FDL_CO2/index.html), thereby enabling proactive measures to minimize the seismic hazard.
+- Designed a novel [open-source software](https://github.com/UCBerkeleySETI/blipss) to detect repeating radar-like transmissions from potential technologically advanced worlds residing in the Milky Way.
+
 
 Outside of work, I enjoy following cricket, playing board games, and exploring natural wonders. Visit my [personal website](https://akshaysuresh1.com) to learn more about my experiences in and beyond the workplace.
 
