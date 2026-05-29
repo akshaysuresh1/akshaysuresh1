@@ -1,29 +1,15 @@
 ### Hi there! 👋
 
-<!--
-**akshaysuresh1/akshaysuresh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a physicist building AI and signal processing systems that accelerate scientific discovery, from searching terabytes of astronomy data for signs of life beyond the Earth to shipping production geospatial foundation models for climate action. I combine the academic rigor of a scientist with the execution focus of an engineer, having shipped production ML systems at leading AI startups in London.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I leverage data and artificial intelligence (AI) tools for positive human and climate impact. In the past, I engineered software pipelines to automate searches of terabytes of astronomy data for exotic events, including plausible signs of intelligent life beyond the Earth.
-
-**Major project highlights:**
-- Led the test-driven development of a [segmentation model to detect Amazon rainforest cover in satellite imagery](https://akshaysuresh1.com/projects/2025_06_15_AmazonForestSegmentation). eliminating up to 15 hours of tedious manual data labeling per week.
-- Conducted a [rooftop solar feasibility study](https://akshaysuresh1.com/projects/2024_05_14_LiDARSolarPotential) using LiDAR, revealing that 53% of homeowners in DeLand, Florida, can save over $1,000 annually by transitioning to solar-powered households.
-- Developed a [scalable tool for near real-time forecast of earthquakes induced from underground carbon storage](https://akshaysuresh1.com/projects/2022_08_31_FDL_CO2), thereby enabling proactive measures to minimize the seismic hazard.
+**Highlights:**
+- Led the test-driven development of a [segmentation model to detect Amazon rainforest cover in satellite imagery](https://akshaysuresh1.com/projects/2025_06_15_AmazonForestSegmentation), eliminating up to 15&nbsp;hours of tedious manual data labeling per week.
+- Developed [BLIPSS](https://github.com/UCBerkeleySETI/blipss), a novel open-source signal processing tool to search for radar-like transmissions from ~600,000 planetary systems in the Milky Way.
+- Developed a [scalable near real-time earthquake forecasting tool for underground carbon storage sites](https://akshaysuresh1.com/projects/2022_08_31_FDL_CO2), enabling proactive seismic hazard mitigation.
 
 Outside of work, I enjoy following cricket, playing board games, and exploring natural wonders. Visit my [personal website](https://akshaysuresh1.com) to learn more about my experiences in and beyond the workplace.
 
-### 🖥️ Select Open-Source Projects
+### 🖥️ My Open-Source Projects
 
 | Repository | Project focus | Technologies |
 |--|--|--|
