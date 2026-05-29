@@ -5,7 +5,7 @@ I am a physicist building AI and signal processing systems that accelerate scien
 **Highlights:**
 - Led the test-driven development of a [segmentation model to detect Amazon rainforest cover in satellite imagery](https://akshaysuresh1.com/projects/2025_06_15_AmazonForestSegmentation), eliminating up to 15&nbsp;hours of tedious manual data labeling per week.
 - Built [BLIPSS](https://github.com/UCBerkeleySETI/blipss), a novel open-source signal processing tool to search for radar-like transmissions from ~600,000 planetary systems in the Milky Way.
-- Developed a [scalable near real-time earthquake forecasting tool for underground carbon storage sites](https://akshaysuresh1.com/projects/2022_08_31_FDL_CO2), enabling proactive seismic hazard mitigation.
+- Developed a [scalable tool for near real-time forecasts of earthquake counts from underground carbon storage](https://akshaysuresh1.com/projects/2022_08_31_FDL_CO2), enabling proactive seismic hazard mitigation.
 
 Outside of work, I enjoy following cricket, playing board games, and exploring natural wonders. Visit my [personal website](https://akshaysuresh1.com) to learn more about my experiences in and beyond the workplace.
 
